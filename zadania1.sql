@@ -47,5 +47,3 @@ SELECT Top 10 ProductName, UnitPrice FROM Products ORDER BY UnitPrice desc
 
 
 
-
-
